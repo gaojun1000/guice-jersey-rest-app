@@ -1,1 +1,5 @@
-Integrating Jersey with Guice to provide REST API
+Integrating Jersey with Guice to provide REST API.
+
+It uses Jackson JSON Provider to convert POJO to JSON
+
+It also demostrates how to configure custom filters to pre-process request or post-process response
